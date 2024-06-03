@@ -15,3 +15,6 @@ This is a simple web application that generates random colors and applies them t
 
 ## Summary
 This `README.md` provides a brief overview of the project, its structure, and instructions on how to use it.
+
+## Developer 
+ - Globes24media@gmail.com
